@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Nick Skinner
 
-# Your Github username
+# NSki2
